@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Cześć! Jestem Karol
 
-<!--
-**beretG/beretG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Aspirujący SQL Developer & Data Engineer
 
-Here are some ideas to get you started:
+Pasjonuję się bazami danych, optymalizacją zapytań SQL oraz automatyzacją procesów biznesowych. Rozwijam umiejętności w zakresie backend development z naciskiem na technologie związane z zarządzaniem danymi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Bazy danych:**
+- 🗄️ SQL (PostgreSQL, MySQL, SQLite)
+- 📊 Database Design & Normalization
+- ⚡ Query Optimization
+
+**Backend:**
+- 🐍 Python (Flask, SQLAlchemy)
+- 📦 REST API Development
+
+**Frontend:**
+- 🎨 HTML5, CSS3, Bootstrap
+- 📈 JavaScript, Chart.js
+
+**Narzędzia:**
+- 🔧 Git & GitHub
+- 🚀 Docker (learning)
+- 📊 Power BI / Tableau (learning)
+
+---
+
+## 💼 Projekty
+
+### 📋 [System Zarządzania Wnioskami](https://github.com/beretG/request-management-system)
+Aplikacja webowa z workflow zatwierdzającym dla wniosków urlopowych i zakupowych.
+
+**Stack:** Python (Flask), SQLite, SQLAlchemy, Bootstrap 5, Chart.js
+
+**Funkcje:**
+- ✅ Dynamiczne formularze z walidacją
+- ✅ System zatwierdzania wielopoziomowy
+- ✅ Dashboard ze statystykami i wizualizacjami
+- ✅ Filtrowanie i sortowanie danych
+- ✅ RESTful architecture
+
+**🔗 [Live Demo](https://request-management-system-xxx.onrender.com)** | **📖 [Kod](https://github.com/beretG/request-management-system)**
+
