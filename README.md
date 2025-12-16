@@ -38,7 +38,7 @@ Pasjonuję się analizą danych, optymalizacją zapytań SQL oraz projektowaniem
 
 ## 💼 Projekty
 
-### 📊 [Sales Analytics System](https://github.com/beretG/sales-analytics-system) ⭐ **NEWEST**
+### 📊 [Sales Analytics System](https://github.com/beretG/SalesAnalytics) ⭐ **NEWEST**
 
 Kompleksowy system analityczny sprzedaży z zaawansowanymi zapytaniami SQL dla retail analytics.
 
@@ -69,7 +69,7 @@ Kompleksowy system analityczny sprzedaży z zaawansowanymi zapytaniami SQL dla r
 - Detects customer churn risk before it happens
 - Provides actionable insights for inventory & marketing
 
-**🔗 [GitHub Repository](https://github.com/beretG/sales-analytics-system)** | **📖 [Documentation](https://github.com/beretG/sales-analytics-system/blob/main/documentation/DATABASE_DESIGN.md)**
+**🔗 [GitHub Repository](https://github.com/beretG/SalesAnalytics)** | **📖 [Documentation](https://github.com/beretG/SalesAnalytics/blob/main/documentation/DATABASE_DESIGN.md)**
 
 ---
 
